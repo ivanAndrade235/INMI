@@ -1,1 +1,1 @@
-# INMI
+# IPMI2
